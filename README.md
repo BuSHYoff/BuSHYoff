@@ -2,14 +2,14 @@
 
 <a href="https://github.com/BuSHYoff">
   <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=D5AC32&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=1B1B1B&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff" alt="BuSHYoff" />
+    <source srcset="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=D5AC32&center=true&vCenter=true&width=600&height=80&lines=Welcome.">
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=1B1B1B&center=true&vCenter=true&width=600&height=80&lines=Welcome." alt="Welcome." />
   </picture>
 </a>
 
 <br/>
 
-**👋🏼 Baptiste Salaud** &nbsp;·&nbsp; 🐦 Développeur Flutter / Dart &nbsp;·&nbsp; 🧑🏽‍💻 Freelance &nbsp;·&nbsp; 🇫🇷 France
+**👋🏼 Baptiste S.** &nbsp;·&nbsp; 🐦 Développeur Flutter / Dart &nbsp;·&nbsp; 🧑🏽‍💻 Freelance &nbsp;·&nbsp; 🇫🇷 France
 
 </div>
 
@@ -17,7 +17,9 @@
 
 ## À propos
 
-Je suis passionné par l’informatique depuis le collège où j’ai commencé à développer de petits projets.
+Hello 👋🏼
+
+C'est Baptiste et je suis passionné par l’informatique depuis le collège où j’ai commencé à développer de petits projets.
 
 Et puis je me suis vite intéressé au métier de développeur qui réunit tous les aspects qui me correspondent : l’esprit d’équipe, la logique, l’analyse et la participation au développement de logiciels sur-mesure pour les clients.
 
