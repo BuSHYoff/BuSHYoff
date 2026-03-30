@@ -43,9 +43,10 @@ Aider des entreprises à optimiser des actions courantes, qui sont parfois rép�
 
 ## Projets réalisés
 
-### Focus sur **Discover.**
+### Discover.
 
-**L'application qui transforme la curiosité en action.**
+> **L’app qui permet de te faire découvrir des nouvelles passions 💫**
+
 Une expérience immersive pour découvrir et pratiquer des passions de niche, du catalogue à la réalisation concrète.
 
 <div align="center">
