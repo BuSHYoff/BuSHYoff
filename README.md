@@ -9,7 +9,7 @@
 
 <br/>
 
-**🧑🏽‍💻 Freelance &nbsp;·&nbsp; 🐦 Développeur Flutter / Dart &nbsp;·&nbsp; 🇫🇷 France
+**🧑🏽‍💻 Freelance &nbsp;·&nbsp; 🐦 Développeur Flutter / Dart &nbsp;·&nbsp; 🇫🇷 France**
 
 </div>
 
