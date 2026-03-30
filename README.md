@@ -83,13 +83,13 @@ Garden Connect est une réponse technologique innovante aux défis spécifiques 
 
 ### BlindTest
 
-Application Flutter de blind test musical — jeu de devinettes avec gestion des scores - connecté à Spotify
+Application Flutter de blind test musical pensée pour l’expérience de jeu : choix de modes, interface claire et dynamique, progression par manches et interaction rapide. L’app met l’accent sur le plaisir de deviner titres et artistes, avec un flow simple pour lancer une partie, saisir ses réponses et enchaîner sans friction. Connectée à Spotify pour enrichir le contenu et la diversité musicale.
 
 <a href="https://github.com/BuSHYoff/blindtest"><img src="assets/repo_blindtest_button.svg" width="360" alt="Repo BuSHYoff/blindtest" /></a>
 
 <div align="center">
 
-<img src="assets/blindtest_demo.gif" width="220" alt="BlindTest demo" />&nbsp;<img src="assets/blindtest_modes.png" width="220" alt="BlindTest modes" />&nbsp;<img src="assets/blindtest_round.png" width="220" alt="BlindTest round" />
+<img src="assets/blindtest_demo.gif" width="260" alt="BlindTest demo" />
 
 </div>
 
