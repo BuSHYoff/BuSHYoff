@@ -1,109 +1,139 @@
 <div align="center">
 
-```
-  ██████╗  ██╗   ██╗ ███████╗ ██╗  ██╗ ██╗   ██╗  ██████╗  ███████╗ ███████╗
-  ██╔══██╗ ██║   ██║ ██╔════╝ ██║  ██║ ╚██╗ ██╔╝ ██╔═══██╗ ██╔════╝ ██╔════╝
-  ██████╔╝ ██║   ██║ ███████╗ ███████║  ╚████╔╝  ██║   ██║ █████╗   █████╗  
-  ██╔══██╗ ██║   ██║ ╚════██║ ██╔══██║   ╚██╔╝   ██║   ██║ ██╔══╝   ██╔══╝  
-  ██████╔╝ ╚██████╔╝ ███████║ ██║  ██║    ██║    ╚██████╔╝ ██║      ██║     
-  ╚═════╝   ╚═════╝  ╚══════╝ ╚═╝  ╚═╝   ╚═╝     ╚═════╝  ╚═╝      ╚═╝     
-```
+<!--  TYPING ANIMATION  -->
+<a href="https://github.com/BuSHYoff">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=1B1B1B&background=FFFFFF00&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff" alt="BuSHYoff" />
+</a>
 
-### Baptiste Salaud — Flutter Developer · Freelance · 🇫🇷 Nantes
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/BuSHYoff?style=flat-square&color=0d1117&labelColor=30363d&label=followers)](https://github.com/BuSHYoff?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-7-blue?style=flat-square&color=0d1117&labelColor=30363d)](https://github.com/BuSHYoff?tab=repositories)
-[![Epitech MSC](https://img.shields.io/badge/Epitech_MSC-alumni-purple?style=flat-square&color=0d1117&labelColor=30363d)](https://github.com/EpitechMSC)
+**Baptiste Salaud** &nbsp;·&nbsp; Flutter Developer &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; 🇫🇷 France
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/BuSHYoff?style=flat-square&color=1B1B1B&labelColor=F5F5F5&label=followers)](https://github.com/BuSHYoff?tab=followers)&nbsp;
+[![Epitech MSC](https://img.shields.io/badge/Epitech_MSC-alumni-1B1B1B?style=flat-square&labelColor=F5F5F5)](https://github.com/EpitechMSC)
 
 </div>
 
 ---
 
-## ✦ Who am I
+## ✦ À propos
 
-Développeur Flutter **freelance**, passionné par la création d'applications mobiles et web rapides, propres, et centrées sur l'expérience utilisateur.  
-Diplômé de l'**Epitech MSC**, je construis des produits soignés du design jusqu'au déploiement — en solo ou en équipe.
+Développeur Flutter **freelance**, passionné par la création d'applications mobiles et web rapides, propres, et centrées sur l'expérience utilisateur.
+Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusqu'au déploiement.
 
 > *"Crafting fast, clean & user-friendly apps"*
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Stack technique
 
 <div align="center">
 
-| Mobile & Web | Backend | Outils |
-|---|---|---|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+<br/>
+
+<!-- Niveau 1 — Flutter & Dart : grandes icônes -->
+<img src="https://skillicons.dev/icons?i=flutter" width="80" height="80" title="Flutter" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dart" width="80" height="80" title="Dart" />
+
+<br/><br/>
+
+<!-- Niveau 2 — Backend & Web -->
+<img src="https://skillicons.dev/icons?i=python" width="64" height="64" title="Python" />&nbsp;<img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" title="FastAPI" />&nbsp;<img src="https://skillicons.dev/icons?i=vue" width="64" height="64" title="Vue.js" />
+
+<br/><br/>
+
+<!-- Niveau 3 — Outils -->
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" title="SQLite" />&nbsp;<img src="https://skillicons.dev/icons?i=git" width="48" height="48" title="Git" />&nbsp;<img src="https://skillicons.dev/icons?i=github" width="48" height="48" title="GitHub" />&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" title="VS Code" />
+
+<br/>
 
 </div>
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Projets
 
-### 🌱 `garden-connect`
-> Application de monitoring de jardin connecté
+<br/>
 
-Interface web en **Vue.js** pour visualiser les données de capteurs, créer des alertes, et analyser la santé des zones de culture en temps réel.
+### ✦ Focus sur **Discover.**
 
-[![Repo](https://img.shields.io/badge/voir_le_repo-30363d?style=flat-square&logo=github)](https://github.com/BuSHYoff/garden-connect)
-
----
-
-### 🎵 `blindtest`
-> Application Flutter de blind test musical
-
-Jeu de devinettes musicales développé en **Flutter/Dart**, avec gestion des scores et interface fluide.
-
-[![Repo](https://img.shields.io/badge/voir_le_repo-30363d?style=flat-square&logo=github)](https://github.com/BuSHYoff/blindtest)
-
----
-
-### 📱 `Discover.`
-> Application mobile de découverte de passions de niche *(en cours)*
-
-Solo project — 3 passions curatées par semaine, interface immersive, architecture Flutter offline-first avec BLoC.
-
-`Flutter` · `Dart` · `BLoC` · `Python` · `FastAPI`
-
----
-
-## 📊 GitHub Stats
+> Application mobile Flutter de découverte de **passions de niche** — 3 passions curatées par semaine, contenu généré par IA, architecture offline-first avec BLoC.
 
 <div align="center">
 
-![Baptiste's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuSHYoff&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true)
+| Explorer | Carte | Activité | Progression | Communauté | Profil |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/explorer.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/map.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/activity_details.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/activity_started.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/community.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/profil.png" width="110" /> |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuSHYoff&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)
+</div>
+
+**Stack :** `Flutter` · `Dart` · `BLoC` · `Python` · `FastAPI` · `Claude Haiku`
+
+`Solo project` · `En cours`
+
+<br/>
+
+---
+
+<br/>
+
+### 🌱 Garden Connect
+
+> Plateforme complète de monitoring de jardin connecté — capteurs en temps réel, alertes intelligentes, analytics et carte thermique des zones de culture.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/garden_connect_logo.svg" width="200" />
+</div>
+
+**Stack :** `Flutter` · `Vue.js` · `FastAPI` · `SQLAlchemy` · `SQLite`
+
+[![App Flutter](https://img.shields.io/badge/App_Flutter-JardinConnect%2FGardenFront-1B1B1B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/JardinConnect/GardenFront)&nbsp;[![Site vitrine](https://img.shields.io/badge/Vitrine_web-garden--connect-1B1B1B?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/BuSHYoff/garden-connect)
+
+<br/>
+
+---
+
+<br/>
+
+### 🎵 BlindTest
+
+> Application Flutter de blind test musical — jeu de devinettes avec gestion des scores et interface fluide.
+
+**Stack :** `Flutter` · `Dart`
+
+[![Repo](https://img.shields.io/badge/voir_le_repo-BuSHYoff%2Fblindtest-1B1B1B?style=flat-square&logo=github&logoColor=white)](https://github.com/BuSHYoff/blindtest)
+
+<br/>
+
+---
+
+## 📊 Stats GitHub
+
+<div align="center">
+
+![Baptiste's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuSHYoff&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1B1B1B&icon_color=1B1B1B&text_color=555555&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuSHYoff&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1B1B1B&text_color=555555&langs_count=6)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📬 Contact
 
 <div align="center">
 
-[![Pull Shark x2](https://img.shields.io/badge/🦈_Pull_Shark-×2-1f6feb?style=flat-square&labelColor=0d1117)](https://github.com/BuSHYoff?achievement=pull-shark&tab=achievements)
+[![Email](https://img.shields.io/badge/baptiste.salaud%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:baptiste.salaud@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baptiste_Salaud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-salaud)
 
-</div>
+<br/>
 
----
-
-## 📬 Me contacter
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-BuSHYoff-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BuSHYoff)
-
-*Disponible pour missions freelance Flutter & fullstack · 🇫🇷 Nantes, France*
+*Disponible pour missions freelance Flutter & fullstack · 🇫🇷 France*
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Made with ♥ and Dart · <code>BuSHYoff</code></sub>
+  <sub>Made with ♥ and Dart &nbsp;·&nbsp; <code>BuSHYoff</code></sub>
 </div>
