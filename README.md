@@ -1,8 +1,10 @@
 <div align="center">
 
-<!--  TYPING ANIMATION  -->
 <a href="https://github.com/BuSHYoff">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=1B1B1B&background=FFFFFF00&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff" alt="BuSHYoff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff">
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=1B1B1B&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff" alt="BuSHYoff" />
+  </picture>
 </a>
 
 <br/>
@@ -33,18 +35,7 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 <br/>
 
-<!-- Niveau 1 — Flutter & Dart : grandes icônes -->
-<img src="https://skillicons.dev/icons?i=flutter" width="80" height="80" title="Flutter" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dart" width="80" height="80" title="Dart" />
-
-<br/><br/>
-
-<!-- Niveau 2 — Backend & Web -->
-<img src="https://skillicons.dev/icons?i=python" width="64" height="64" title="Python" />&nbsp;<img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" title="FastAPI" />&nbsp;<img src="https://skillicons.dev/icons?i=vue" width="64" height="64" title="Vue.js" />
-
-<br/><br/>
-
-<!-- Niveau 3 — Outils -->
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" title="SQLite" />&nbsp;<img src="https://skillicons.dev/icons?i=git" width="48" height="48" title="Git" />&nbsp;<img src="https://skillicons.dev/icons?i=github" width="48" height="48" title="GitHub" />&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" title="VS Code" />
+<img src="assets/tech_stack.png" width="550" alt="Ma Stack Technique" />
 
 <br/>
 
@@ -112,9 +103,15 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 <div align="center">
 
-![Baptiste's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuSHYoff&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1B1B1B&icon_color=1B1B1B&text_color=555555&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BuSHYoff&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=BuSHYoff&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1B1B1B&icon_color=1B1B1B&text_color=555555&count_private=true" alt="Stats GitHub" />
+</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuSHYoff&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1B1B1B&text_color=555555&langs_count=6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BuSHYoff&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuSHYoff&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1B1B1B&text_color=555555&langs_count=6" alt="Langages les plus utilisés" />
+</picture>
 
 </div>
 
