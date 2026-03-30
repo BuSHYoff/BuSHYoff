@@ -2,7 +2,7 @@
 
 <a href="https://github.com/BuSHYoff">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff">
+    <source srcset="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=D5AC32&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff">
     <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=52&duration=3000&pause=1000&color=1B1B1B&center=true&vCenter=true&width=600&height=80&lines=BuSHYoff" alt="BuSHYoff" />
   </picture>
 </a>
