@@ -87,6 +87,12 @@ Application Flutter de blind test musical — jeu de devinettes avec gestion des
 
 <a href="https://github.com/BuSHYoff/blindtest"><img src="assets/repo_blindtest_button.svg" width="360" alt="Repo BuSHYoff/blindtest" /></a>
 
+<div align="center">
+
+<img src="assets/blindtest_demo.gif" width="220" alt="BlindTest demo" />&nbsp;<img src="assets/blindtest_modes.png" width="220" alt="BlindTest modes" />&nbsp;<img src="assets/blindtest_round.png" width="220" alt="BlindTest round" />
+
+</div>
+
 <br/>
 
 ---
