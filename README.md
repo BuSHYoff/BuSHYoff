@@ -54,6 +54,10 @@ Une expérience immersive pour découvrir et pratiquer des passions de niche, du
 
 </div>
 
+<div align="center">
+<img src="assets/discover.gif" width="260" alt="Discover demo" />
+</div>
+
 #### Une expérience complète de la découverte à la pratique :
 
 * **Système de "Journey" Interactif** : L'application ne se contente pas de lister les activités. Elle propose un parcours guidé en 3 étapes clés (Préparation du matériel, Actions de la semaine, Partage d'expérience). Ce module inclut des checklists de progression persistées localement pour transformer l'intention en habitude.
@@ -72,6 +76,18 @@ Garden Connect est une réponse technologique innovante aux défis spécifiques 
 <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/garden_connect_logo.svg" width="200" />
 
 <a href="https://github.com/JardinConnect/GardenFront"><img src="assets/repo_gardenfront_button.svg" width="360" alt="Repo JardinConnect/GardenFront" /></a>&nbsp;<a href="https://bushyoff.github.io/garden-connect/"><img src="assets/repo_gardenconnect_button.svg" width="360" alt="Site vitrine garden-connect" /></a>
+
+#### Application web
+
+<div align="center">
+<img src="assets/garden.gif" width="320" alt="Garden Connect web" />
+</div>
+
+#### Application mobile
+
+<div align="center">
+<img src="assets/garden_mobile.gif" width="260" alt="Garden Connect mobile" />
+</div>
 
 <br/>
 
