@@ -9,7 +9,7 @@
 
 <br/>
 
-**👋🏼 Baptiste S.** &nbsp;·&nbsp; 🐦 Développeur Flutter / Dart &nbsp;·&nbsp; 🧑🏽‍💻 Freelance &nbsp;·&nbsp; 🇫🇷 France
+**🧑🏽‍💻 Freelance &nbsp;·&nbsp; 🐦 Développeur Flutter / Dart &nbsp;·&nbsp; 🇫🇷 France
 
 </div>
 
