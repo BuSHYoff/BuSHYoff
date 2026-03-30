@@ -59,27 +59,19 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 </div>
 
-**Stack :** `Flutter` · `Dart` · `BLoC` · `Python` · `FastAPI` · `Claude Haiku`
-
-`Solo project` · `En cours`
-
-<br/>
-
 ---
 
 <br/>
 
 ### 🌱 Garden Connect
 
-> Plateforme complète de monitoring de jardin connecté — capteurs en temps réel, alertes intelligentes, analytics et carte thermique des zones de culture.
+> Garden Connect est une réponse technologique innovante aux défis spécifiques des maraîchers biologiques, qui doivent composer avec des contraintes environnementales, économiques, et techniques. Ce projet vise à transformer la gestion des serres en rendant accessible une solution complète de suivi et d'analyse des données environnementales. Conçu pour être à la fois abordable et évolutif, Garden Connect combine les technologies de l'Internet des Objets (IoT), une architecture modulaire, et une interface utilisateur intuitive pour répondre aux besoins des exploitants agricoles, qu'ils soient novices ou experts en technologie.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/garden_connect_logo.svg" width="200" />
 </div>
 
-**Stack :** `Flutter` · `Vue.js` · `FastAPI` · `SQLAlchemy` · `SQLite`
-
-<a href="https://github.com/JardinConnect/GardenFront"><img src="assets/repo_gardenfront_button.svg" width="360" alt="Repo JardinConnect/GardenFront" /></a>&nbsp;<a href="https://github.com/BuSHYoff/garden-connect"><img src="assets/repo_gardenconnect_button.svg" width="360" alt="Repo BuSHYoff/garden-connect" /></a>
+<a href="https://github.com/JardinConnect/GardenFront"><img src="assets/repo_gardenfront_button.svg" width="360" alt="Repo JardinConnect/GardenFront" /></a>&nbsp;<a href="https://bushyoff.github.io/garden-connect/"><img src="assets/repo_gardenconnect_button.svg" width="360" alt="Site vitrine garden-connect" /></a>
 
 <br/>
 
@@ -91,8 +83,6 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 > Application Flutter de blind test musical — jeu de devinettes avec gestion des scores et interface fluide.
 
-**Stack :** `Flutter` · `Dart`
-
 <a href="https://github.com/BuSHYoff/blindtest"><img src="assets/repo_blindtest_button.svg" width="360" alt="Repo BuSHYoff/blindtest" /></a>
 
 <br/>
@@ -103,7 +93,7 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 <div align="center">
 
-<a href="mailto:baptiste.salaud@gmail.com"><img src="assets/contact_email_button.svg" width="320" alt="Email" /></a>&nbsp;<a href="https://www.linkedin.com/in/baptiste-salaud"><img src="assets/contact_linkedin_button.svg" width="320" alt="LinkedIn" /></a>
+<a href="mailto:baptiste.salaud@gmail.com"><img src="assets/contact_email_button.svg" width="320" alt="Email" /></a>&nbsp;<a href="https://www.linkedin.com/in/baptiste-salaud-a07378235/"><img src="assets/contact_linkedin_button.svg" width="320" alt="LinkedIn" /></a>
 
 <br/>
 
