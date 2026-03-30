@@ -48,14 +48,8 @@ Une expérience immersive pour découvrir et pratiquer des passions de niche, du
 
 <div align="center">
 
-| Explorer | Carte | Activité | Progression | Communauté | Profil |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/explorer.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/map.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/activity_details.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/activity_started.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/community.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/profil.png" width="110" /> |
-
-</div>
-
-<div align="center">
 <img src="assets/discover.gif" width="260" alt="Discover demo" />
+
 </div>
 
 #### Une expérience complète de la découverte à la pratique :
@@ -65,6 +59,15 @@ Une expérience immersive pour découvrir et pratiquer des passions de niche, du
 * **Curation de Contenu par IA** : Le cœur de l'app repose sur un dataset de plus de 170 passions qui sera amené à être enrichi par la communauté. Chaque passions est enrichie par une intelligence artificielle pour fournir des informations percutantes, des conseils spécifiques et des ressources externes pertinentes. Évidemment, certaines informations peuvent être érroné, la communauté pourra donc accéder à un support dédié pour corriger ou proposer de nouveaux avis.
 * **Feed de Communauté** : Un réseau social pour chaque passions sera disponible afin d'échanger avec les experts et passionées du domaine. Vous pourrez partager tous vos contenus ici et commenter les publications de chacun.
 
+
+<div align="center">
+
+| Explorer | Carte | Activité | Progression | Communauté | Profil |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/explorer.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/map.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/activity_details.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/activity_started.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/community.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/profil.png" width="110" /> |
+
+</div>
+
 ---
 
 <br/>
@@ -73,14 +76,10 @@ Une expérience immersive pour découvrir et pratiquer des passions de niche, du
 
 Garden Connect est une réponse technologique innovante aux défis spécifiques des maraîchers biologiques, qui doivent composer avec des contraintes environnementales, économiques, et techniques. Ce projet vise à transformer la gestion des serres en rendant accessible une solution complète de suivi et d'analyse des données environnementales. Conçu pour être à la fois abordable et évolutif, Garden Connect combine les technologies de l'Internet des Objets (IoT), une architecture modulaire, et une interface utilisateur intuitive pour répondre aux besoins des exploitants agricoles, qu'ils soient novices ou experts en technologie.
 
-<img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/garden_connect_logo.svg" width="200" />
-
-<a href="https://github.com/JardinConnect/GardenFront"><img src="assets/repo_gardenfront_button.svg" width="360" alt="Repo JardinConnect/GardenFront" /></a>&nbsp;<a href="https://bushyoff.github.io/garden-connect/"><img src="assets/repo_gardenconnect_button.svg" width="360" alt="Site vitrine garden-connect" /></a>
-
 #### Application web
 
 <div align="center">
-<img src="assets/garden.gif" width="320" alt="Garden Connect web" />
+<img src="assets/garden.gif" width="640" alt="Garden Connect web" />
 </div>
 
 #### Application mobile
@@ -91,11 +90,15 @@ Garden Connect est une réponse technologique innovante aux défis spécifiques 
 
 <br/>
 
+<a href="https://github.com/JardinConnect/GardenFront"><img src="assets/repo_gardenfront_button.svg" width="360" alt="Repo JardinConnect/GardenFront" /></a>&nbsp;<a href="https://bushyoff.github.io/garden-connect/"><img src="assets/repo_gardenconnect_button.svg" width="360" alt="Site vitrine garden-connect" /></a>
+
+<br/>
+
 ---
 
 <br/>
 
-### BlindTest
+### Blindify
 
 Application Flutter de blind test musical pensée pour l’expérience de jeu : choix de modes, interface claire et dynamique, progression par manches et interaction rapide. L’app met l’accent sur le plaisir de deviner titres et artistes, avec un flow simple pour lancer une partie, saisir ses réponses et enchaîner sans friction. Connectée à Spotify pour enrichir le contenu et la diversité musicale.
 
@@ -104,6 +107,8 @@ Application Flutter de blind test musical pensée pour l’expérience de jeu : 
 <img src="assets/blindtest_demo.gif" width="260" alt="BlindTest demo" />
 
 </div>
+
+<br/>
 
 <a href="https://github.com/BuSHYoff/blindtest"><img src="assets/repo_blindtest_button.svg" width="360" alt="Repo BuSHYoff/blindtest" /></a>
 
