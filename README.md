@@ -45,8 +45,8 @@ Aider des entreprises à optimiser des actions courantes, qui sont parfois rép�
 
 ### Focus sur **Discover.**
 
-> **L'application qui transforme la curiosité en action.**
-> Une expérience immersive pour découvrir et pratiquer des passions de niche, du catalogue à la réalisation concrète.
+**L'application qui transforme la curiosité en action.**
+Une expérience immersive pour découvrir et pratiquer des passions de niche, du catalogue à la réalisation concrète.
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Aider des entreprises à optimiser des actions courantes, qui sont parfois rép�
 
 ### Garden Connect
 
-> Garden Connect est une réponse technologique innovante aux défis spécifiques des maraîchers biologiques, qui doivent composer avec des contraintes environnementales, économiques, et techniques. Ce projet vise à transformer la gestion des serres en rendant accessible une solution complète de suivi et d'analyse des données environnementales. Conçu pour être à la fois abordable et évolutif, Garden Connect combine les technologies de l'Internet des Objets (IoT), une architecture modulaire, et une interface utilisateur intuitive pour répondre aux besoins des exploitants agricoles, qu'ils soient novices ou experts en technologie.
+Garden Connect est une réponse technologique innovante aux défis spécifiques des maraîchers biologiques, qui doivent composer avec des contraintes environnementales, économiques, et techniques. Ce projet vise à transformer la gestion des serres en rendant accessible une solution complète de suivi et d'analyse des données environnementales. Conçu pour être à la fois abordable et évolutif, Garden Connect combine les technologies de l'Internet des Objets (IoT), une architecture modulaire, et une interface utilisateur intuitive pour répondre aux besoins des exploitants agricoles, qu'ils soient novices ou experts en technologie.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/garden_connect_logo.svg" width="200" />
@@ -85,7 +85,7 @@ Aider des entreprises à optimiser des actions courantes, qui sont parfois rép�
 
 ### BlindTest
 
-> Application Flutter de blind test musical — jeu de devinettes avec gestion des scores et interface fluide.
+Application Flutter de blind test musical — jeu de devinettes avec gestion des scores - connecté à Spotify
 
 <a href="https://github.com/BuSHYoff/blindtest"><img src="assets/repo_blindtest_button.svg" width="360" alt="Repo BuSHYoff/blindtest" /></a>
 
