@@ -43,9 +43,10 @@ Aider des entreprises à optimiser des actions courantes, qui sont parfois rép�
 
 <br/>
 
-### ✦ Focus sur **Discover.**
+### Focus sur **Discover.**
 
-> Application mobile Flutter de découverte de **passions de niche** — 3 passions curatées par semaine, contenu généré par IA, architecture offline-first avec BLoC.
+> **L'application qui transforme la curiosité en action.**
+> Une expérience immersive pour découvrir et pratiquer des passions de niche, du catalogue à la réalisation concrète.
 
 <div align="center">
 
@@ -54,6 +55,13 @@ Aider des entreprises à optimiser des actions courantes, qui sont parfois rép�
 | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/explorer.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/map.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/activity_details.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/activity_started.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/community.png" width="110" /> | <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/profil.png" width="110" /> |
 
 </div>
+
+#### Une expérience complète de la découverte à la pratique :
+
+* **Système de "Journey" Interactif** : L'application ne se contente pas de lister les activités. Elle propose un parcours guidé en 3 étapes clés (Préparation du matériel, Actions de la semaine, Partage d'expérience). Ce module inclut des checklists de progression persistées localement pour transformer l'intention en habitude.
+* **Exploration Géographique & Culturelle** : Via une carte du monde interactive, l'utilisateur peut explorer des passions par origine géographique. Les pays sont colorés dynamiquement selon la richesse du catalogue associé, offrant une dimension ludique à la recherche.
+* **Curation de Contenu par IA** : Le cœur de l'app repose sur un dataset de plus de 170 passions qui sera amené à être enrichi par la communauté. Chaque passions est enrichie par une intelligence artificielle pour fournir des informations percutantes, des conseils spécifiques et des ressources externes pertinentes. Évidemment, certaines informations peuvent être érroné, la communauté pourra donc accéder à un support dédié pour corriger ou proposer de nouveaux avis.
+* **Feed de Communauté** : Un réseau social pour chaque passions sera disponible afin d'échanger avec les experts et passionées du domaine. Vous pourrez partager tous vos contenus ici et commenter les publications de chacun.
 
 ---
 
