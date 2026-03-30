@@ -69,9 +69,7 @@ Une expérience immersive pour découvrir et pratiquer des passions de niche, du
 
 Garden Connect est une réponse technologique innovante aux défis spécifiques des maraîchers biologiques, qui doivent composer avec des contraintes environnementales, économiques, et techniques. Ce projet vise à transformer la gestion des serres en rendant accessible une solution complète de suivi et d'analyse des données environnementales. Conçu pour être à la fois abordable et évolutif, Garden Connect combine les technologies de l'Internet des Objets (IoT), une architecture modulaire, et une interface utilisateur intuitive pour répondre aux besoins des exploitants agricoles, qu'ils soient novices ou experts en technologie.
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/BuSHYoff/BuSHYoff/main/assets/garden_connect_logo.svg" width="200" />
-</div>
 
 <a href="https://github.com/JardinConnect/GardenFront"><img src="assets/repo_gardenfront_button.svg" width="360" alt="Repo JardinConnect/GardenFront" /></a>&nbsp;<a href="https://bushyoff.github.io/garden-connect/"><img src="assets/repo_gardenconnect_button.svg" width="360" alt="Site vitrine garden-connect" /></a>
 
@@ -85,13 +83,13 @@ Garden Connect est une réponse technologique innovante aux défis spécifiques 
 
 Application Flutter de blind test musical pensée pour l’expérience de jeu : choix de modes, interface claire et dynamique, progression par manches et interaction rapide. L’app met l’accent sur le plaisir de deviner titres et artistes, avec un flow simple pour lancer une partie, saisir ses réponses et enchaîner sans friction. Connectée à Spotify pour enrichir le contenu et la diversité musicale.
 
-<a href="https://github.com/BuSHYoff/blindtest"><img src="assets/repo_blindtest_button.svg" width="360" alt="Repo BuSHYoff/blindtest" /></a>
-
 <div align="center">
 
 <img src="assets/blindtest_demo.gif" width="260" alt="BlindTest demo" />
 
 </div>
+
+<a href="https://github.com/BuSHYoff/blindtest"><img src="assets/repo_blindtest_button.svg" width="360" alt="Repo BuSHYoff/blindtest" /></a>
 
 <br/>
 
