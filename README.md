@@ -11,25 +11,21 @@
 
 **Baptiste Salaud** &nbsp;·&nbsp; Flutter Developer &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; 🇫🇷 France
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/BuSHYoff?style=flat-square&color=1B1B1B&labelColor=F5F5F5&label=followers)](https://github.com/BuSHYoff?tab=followers)&nbsp;
-[![Epitech MSC](https://img.shields.io/badge/Epitech_MSC-alumni-1B1B1B?style=flat-square&labelColor=F5F5F5)](https://github.com/EpitechMSC)
-
 </div>
 
 ---
 
-## ✦ À propos
+## À propos
 
-Développeur Flutter **freelance**, passionné par la création d'applications mobiles et web rapides, propres, et centrées sur l'expérience utilisateur.
-Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusqu'au déploiement.
+Je suis passionné par l’informatique depuis le collège où j’ai commencé à développer de petits projets.
 
-> *"Crafting fast, clean & user-friendly apps"*
+Et puis je me suis vite intéressé au métier de développeur qui réunit tous les aspects qui me correspondent : l’esprit d’équipe, la logique, l’analyse et la participation au développement de logiciels sur-mesure pour les clients.
+
+Aider des entreprises à optimiser des actions courantes, qui sont parfois répétitives et redondantes ou bien créer avec eux, des projets partant de zéro sont pour moi une grande source de productivité. C'est donc cette notion qui me plaît et qui me pousse à réaliser ce métier qui est en pleine effervescence.
 
 ---
 
-## ⚡ Stack technique
+## Stack technique
 
 <div align="center">
 
@@ -43,7 +39,7 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 ---
 
-## 🚀 Projets
+## Projets
 
 <br/>
 
@@ -63,7 +59,7 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 <br/>
 
-### 🌱 Garden Connect
+### Garden Connect
 
 > Garden Connect est une réponse technologique innovante aux défis spécifiques des maraîchers biologiques, qui doivent composer avec des contraintes environnementales, économiques, et techniques. Ce projet vise à transformer la gestion des serres en rendant accessible une solution complète de suivi et d'analyse des données environnementales. Conçu pour être à la fois abordable et évolutif, Garden Connect combine les technologies de l'Internet des Objets (IoT), une architecture modulaire, et une interface utilisateur intuitive pour répondre aux besoins des exploitants agricoles, qu'ils soient novices ou experts en technologie.
 
@@ -79,7 +75,7 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 <br/>
 
-### 🎵 BlindTest
+### BlindTest
 
 > Application Flutter de blind test musical — jeu de devinettes avec gestion des scores et interface fluide.
 
@@ -89,7 +85,7 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
