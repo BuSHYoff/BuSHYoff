@@ -134,5 +134,5 @@ Application Flutter de blind test musical pensée pour l’expérience de jeu : 
 ---
 
 <div align="center">
-  <sub>Made with ♥ &nbsp;·&nbsp; <code>BuSHYoff</code></sub>
+  <sub>Made with ♥</sub>
 </div>
