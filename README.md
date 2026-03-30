@@ -39,9 +39,7 @@ Aider des entreprises à optimiser des actions courantes, qui sont parfois rép�
 
 ---
 
-## Projets
-
-<br/>
+## Projets réalisés
 
 ### Focus sur **Discover.**
 
