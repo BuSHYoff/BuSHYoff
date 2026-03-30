@@ -9,7 +9,7 @@
 
 <br/>
 
-**Baptiste Salaud** &nbsp;·&nbsp; Flutter Developer &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; 🇫🇷 France
+**Baptiste Salaud** &nbsp;·&nbsp; Développeur Flutter / Dart &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; 🇫🇷 France
 
 </div>
 
