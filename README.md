@@ -79,7 +79,7 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 **Stack :** `Flutter` · `Vue.js` · `FastAPI` · `SQLAlchemy` · `SQLite`
 
-[![App Flutter](https://img.shields.io/badge/App_Flutter-JardinConnect%2FGardenFront-1B1B1B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/JardinConnect/GardenFront)&nbsp;[![Site vitrine](https://img.shields.io/badge/Vitrine_web-garden--connect-1B1B1B?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/BuSHYoff/garden-connect)
+<a href="https://github.com/JardinConnect/GardenFront"><img src="assets/repo_gardenfront_button.svg" width="360" alt="Repo JardinConnect/GardenFront" /></a>&nbsp;<a href="https://github.com/BuSHYoff/garden-connect"><img src="assets/repo_gardenconnect_button.svg" width="360" alt="Repo BuSHYoff/garden-connect" /></a>
 
 <br/>
 
@@ -93,27 +93,9 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 **Stack :** `Flutter` · `Dart`
 
-[![Repo](https://img.shields.io/badge/voir_le_repo-BuSHYoff%2Fblindtest-1B1B1B?style=flat-square&logo=github&logoColor=white)](https://github.com/BuSHYoff/blindtest)
+<a href="https://github.com/BuSHYoff/blindtest"><img src="assets/repo_blindtest_button.svg" width="360" alt="Repo BuSHYoff/blindtest" /></a>
 
 <br/>
-
----
-
-## 📊 Stats GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BuSHYoff&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=BuSHYoff&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1B1B1B&icon_color=1B1B1B&text_color=555555&count_private=true" alt="Stats GitHub" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BuSHYoff&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuSHYoff&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1B1B1B&text_color=555555&langs_count=6" alt="Langages les plus utilisés" />
-</picture>
-
-</div>
 
 ---
 
@@ -121,7 +103,7 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/baptiste.salaud%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:baptiste.salaud@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baptiste_Salaud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-salaud)
+<a href="mailto:baptiste.salaud@gmail.com"><img src="assets/contact_email_button.svg" width="320" alt="Email" /></a>&nbsp;<a href="https://www.linkedin.com/in/baptiste-salaud"><img src="assets/contact_linkedin_button.svg" width="320" alt="LinkedIn" /></a>
 
 <br/>
 
@@ -132,5 +114,5 @@ Diplômé de l'**Epitech MSC**, je conçois des produits soignés du design jusq
 ---
 
 <div align="center">
-  <sub>Made with ♥ and Dart &nbsp;·&nbsp; <code>BuSHYoff</code></sub>
+  <sub>Made with ♥ &nbsp;·&nbsp; <code>BuSHYoff</code></sub>
 </div>
